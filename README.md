@@ -4,3 +4,9 @@ If you want to use my programs you will have to download this program:  A [POWER
 Once you have downloaded POWER-KI from the link, download the program you like and finally open it.
 
 Here is the list of my programs:
+
+   * Agenda-01
+   * Agenda-02
+   * Chat-Svr-01
+   * Chat-Cli-01
+   * RGB-0
