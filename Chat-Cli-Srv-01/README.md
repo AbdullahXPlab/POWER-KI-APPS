@@ -1,3 +1,5 @@
+# How it works
+
 # Chat-Srv-01
 Chat-Srv-01 is a program that allows you to chat with all clients.
 You can only have one server.
