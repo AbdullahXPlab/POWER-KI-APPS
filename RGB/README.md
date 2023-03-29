@@ -5,6 +5,6 @@ You can save the colors you like, you can create multiple palettes
 change the opacity of your colors. By changing the opacity,
 an image with the three RGB colors can be seen below the color,
 it is used to compare the color you are creating with other colors.
-![Image](./Image/RGB-02-imm "icon")
+![Image](./Image/RGB-02-imm.png "icon")
 
 [Download RGB-02](https://github.com/AbdullahXPlab/POWER-KI-APPS/raw/main/RGB/RGB-02.pwk)
