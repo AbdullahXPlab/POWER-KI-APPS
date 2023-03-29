@@ -3,7 +3,7 @@ Agenda-01 is a program that allows you to save people by giving them:
 name, surname, telephone, then if you want you can add an address and a note.
 Sorts names alphabetically by last name and then first name.
 
-![Image](./Image/agenda1imm.png "icon")
+![Image](./Image/Agenda-01-imm.png "Agenda-01")
 
 # Agenda-02
 The program is the same as agenda-01 but has an implementation
