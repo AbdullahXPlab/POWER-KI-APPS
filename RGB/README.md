@@ -9,4 +9,3 @@ it is used to compare the color you are creating with other colors.
 
 
 [Download RGB-02](https://github.com/AbdullahXPlab/POWER-KI-APPS/raw/main/RGB/RGB-02.pwk)
-
