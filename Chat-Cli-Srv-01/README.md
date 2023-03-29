@@ -2,7 +2,7 @@
 Chat-Srv-01 is a program that allows you to chat with all clients.
 You can only have one server.
 ![Image](chatsrv1imm.png "icon")
- 
+
 # Chat-Cli-01
 Chat-Cli-01 is a program that allows you to chat with all the people
 in possession of the program. By double-clicking on the username
