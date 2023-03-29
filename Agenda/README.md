@@ -9,7 +9,7 @@ Sorts names alphabetically by last name and then first name.
 The program is the same as agenda-01 but has an implementation
 that allows you to search a person with the first and/or last name.
 
-![Image](./Image/Agenda-20-imm.png "icon")
+![Image](./Image/Agenda-02-imm.png "icon")
 
 
 [Download Agenda-01](https://github.com/AbdullahXPlab/POWER-KI-APPS/raw/main/Agenda/Agenda-01.pwk)
