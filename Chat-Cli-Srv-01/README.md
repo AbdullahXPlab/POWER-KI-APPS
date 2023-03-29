@@ -12,4 +12,5 @@ you can also have private chats.
 
 
 [Download Chat-Srv-01](https://github.com/AbdullahXPlab/POWER-KI-APPS/raw/main/Chat-Cli-Srv-01/Chat-Srv-01.pwk)
+|
 [Download Chat-Cli-01](https://github.com/AbdullahXPlab/POWER-KI-APPS/raw/main/Chat-Cli-Srv-01/Chat-Cli-01.pwk)
