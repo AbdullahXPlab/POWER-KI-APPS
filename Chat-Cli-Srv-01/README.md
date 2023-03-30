@@ -1,5 +1,8 @@
 # How it works
 ![Image](./Image/Senzatitolo.png "icon")
+
+At the beginning it asks you for IP and server port
+
 # Chat-Srv-01
 Chat-Srv-01 is a program that allows you to chat with all clients.
 You can only have one server.
