@@ -5,7 +5,7 @@ how much time you've spent in different activities. You can also
 enter times if you forgot to do so and you can also put a comment 
 on your time.
 
-![Image](./Image/pwkacttmr1imm.png "icon")
+
 
 ![Image](./Image/pwkacttmr1imml.png "icon")
 
