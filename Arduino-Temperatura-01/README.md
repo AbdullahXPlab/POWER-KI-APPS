@@ -7,6 +7,6 @@ temperature is high, low or normal (red, blue, green, with shades).
 There are also 2 trackbars that show the temperature as if it were
 a thermostat.
 
-![Image](./Image/ "icon")
+![Image](./Image/Arduinotemperatura1imm.png "icon")
 
 [Download Arduino-Temperatura-01](https://github.com/AbdullahXPlab/POWER-KI-APPS/raw/main/Arduino-Temperatura-01/Arduino-Temperatura-01.pwk)
